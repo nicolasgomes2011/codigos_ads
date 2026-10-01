@@ -1,0 +1,7 @@
+modelo\Professor.class
+visao\TelaInicial.class
+controlador\ControladorProfessor.class
+visao\TelaProfessor$1.class
+visao\TelaProfessor$2.class
+controlador\ControladorTela.class
+visao\TelaProfessor.class
